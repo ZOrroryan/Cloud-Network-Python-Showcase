@@ -32,6 +32,10 @@ This project is a fun way to showcase:
 
 ---
 
+![Game Preview](screenshot.png)
+
+---
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**  

@@ -41,8 +41,6 @@ This project is a fun way to showcase:
 
 ## 🚀 How to Run Locally
 
-## 🚀 Run the Game Yourself
-
 If you want to try the game on your own computer or in any Python environment, you can use the **`importtkinterastk.py`** file in this repository.  
 
 1. Open the file in your favorite Python editor (like **VS Code**, **PyCharm**, or **IDLE**).  

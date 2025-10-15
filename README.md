@@ -41,8 +41,14 @@ This project is a fun way to showcase:
 
 ## 🚀 How to Run Locally
 
+## 🚀 Run the Game Yourself
 
+If you want to try the game on your own computer or in any Python environment, you can use the **`importtkinterastk.py`** file in this repository.  
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/ZOrroryan/Green-Light-Game.git
+1. Open the file in your favorite Python editor (like **VS Code**, **PyCharm**, or **IDLE**).  
+2. Copy all the code from the file.  
+3. Paste it into a new Python file (for example, `game.py`).  
+4. Run the file with Python 3, and the Tkinter game window will open.  
+
+> 💡 Tkinter comes pre-installed with Python, so no extra libraries are needed.
+

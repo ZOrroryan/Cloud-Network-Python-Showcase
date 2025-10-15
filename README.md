@@ -32,7 +32,7 @@ This project is a fun way to showcase:
 
 ---
 
-![Game Preview](screenshot.png)
+![Game Preview](Capture.PNG)
 
 ---
 

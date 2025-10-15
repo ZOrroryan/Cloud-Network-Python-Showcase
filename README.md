@@ -1,7 +1,5 @@
 # 🟢 Green-Light-Game
 
-[![Run on Replit](https://replit.com/badge/github/ZOrroryan/Green-Light-Game)](https://replit.com/github/ZOrroryan/Green-Light-Game)
-
 A simple Python game built with Tkinter that tests the player’s reaction time when the light turns green. Designed to demonstrate GUI development skills and event-driven programming.
 
 ---
@@ -37,13 +35,13 @@ This project is a fun way to showcase:
 
 ## 📸 Game Preview
 
-*(Optional: Add a screenshot of your game)*
-
 ![Game Preview](Capture.PNG)
 
 ---
 
 ## 🚀 How to Run Locally
+
+
 
 1. **Clone the repository**  
    ```bash

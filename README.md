@@ -43,10 +43,10 @@ This project is a fun way to showcase:
 
 If you want to try the game on your own computer or in any Python environment, you can use the [**`importtkinterastk.py`**](importtkinterastk.py) file in this repository. Just click the file to view and copy the code, then paste it into your own Python editor to run the game.
 
-1. Open the file in your favorite Python editor (like **VS Code**, **PyCharm**, or **IDLE**).  
+1. Open the [**`importtkinterastk.py`**](importtkinterastk.py) file in your favorite Python editor (like **VS Code**, **PyCharm**, or **IDLE**).  
 2. Copy all the code from the file.  
-3. Paste it into a new Python file (for example, `game.py`).  
-4. Run the file with Python 3, and the Tkinter game window will open.  
+3. Paste the code into a new Python file (for example, `game.py`).  
+4. Run the new file using **Python 3** — the Tkinter game window will open.  
 
-> 💡 Tkinter comes pre-installed with Python, so no extra libraries are needed.
+> 💡 Tkinter comes pre-installed with Python, so no extra libraries are required.
 

@@ -40,7 +40,8 @@ This project is a fun way to showcase:
 
 You can play the **Green Light Reaction Game** directly in your browser using Replit:
 
-👉 [**Click here to play the game**](cloud-network-python-showcase-omarryan15.replit.app)
+👉 [![Run on Replit](https://replit.com/badge/github/ZOrroryan/Green-Light-Game)](https://replit.com/github/ZOrroryan/Green-Light-Game)
+
 
 > When the page opens, click **"Run"** at the top. The game will load in the **VNC viewer** on the right.
 

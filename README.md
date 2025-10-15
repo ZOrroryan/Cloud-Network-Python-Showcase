@@ -36,8 +36,7 @@ This project is a fun way to showcase:
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Try it out and let me know what you think
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/ZOrroryan/Green-Light-Game.git
+🟡 [Play in Replit](cloud-network-python-showcase-omarryan15)
+

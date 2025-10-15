@@ -36,7 +36,11 @@ This project is a fun way to showcase:
 
 ---
 
-## 🚀 Try it out and let me know what you think
+## 🎮 Play the Game Online
 
-🟡 [Play in Replit](cloud-network-python-showcase-omarryan15)
+You can play the **Green Light Reaction Game** directly in your browser using Replit:
+
+👉 [**Click here to play the game**](cloud-network-python-showcase-omarryan15.replit.app)
+
+> When the page opens, click **"Run"** at the top. The game will load in the **VNC viewer** on the right.
 
